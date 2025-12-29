@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+pinecone-client
+openai-whisper
+pyaudio
+python-dotenv
