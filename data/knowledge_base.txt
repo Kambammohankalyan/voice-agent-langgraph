@@ -1,0 +1,30 @@
+My name is Mohankalyan.
+I am an M.Tech student in IT at NIT Raipur.
+I specialize in AI, Voice Agents, and LangGraph.
+I built this project to demonstrate <500ms latency using Groq LPU.
+My email is mohan@example.com.
+User lives in Bangalore.
+Location: Raipur, Chhattisgarh has been saved to memory.
+User moved to Raipur
+
+User previously stated name as Kumbam Mohan Kalyan, but now claims to be Gambam Mohan Kalyan.
+<fact>" command.
+User's name is Kambamohankalyan
+User's name is Kamba mohon ka liyan.
+User name is Kamab Mohan Kalyan
+User is pursuing M-Tech at NIT Raipur.
+Student of NIT Raipur.
+<fact>" command. For example, 
+<fact> 
+I respond with clarity and confirmation when unsure about input.
+I am an AI chatbot
+Varda does not kill Deva in the movie Salar.
+Bahubali was killed by Katapa in the movie Baahubali.
+My favorite city in India is Raipur.
+Second World War resulted in 50-80 million deaths.
+User interaction ended.
+I am JARVIS, an artificial intelligence assistant.
+I have the ability to form posts from my hands.
+I am a computer AI, not human.
+Unable to identify user intent due to unclear language.
+A document is a written or electronic record of information, ideas, or data.

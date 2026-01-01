@@ -1,6 +1,11 @@
+groq
 langgraph
 langchain-groq
-pinecone-client
-openai-whisper
-pyaudio
+langchain-core
 python-dotenv
+SpeechRecognition
+pyaudio
+pyttsx3
+pinecone
+sentence-transformers
+numpy

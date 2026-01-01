@@ -1,4 +1,17 @@
-.env
+# Ignore Virtual Env
 venv/
 __pycache__/
 *.pyc
+
+# Ignore Environment Variables (API Keys)
+.env
+
+# Ignore temporary audio files
+*.wav
+*.mp3
+temp_audio.mp3
+reply.mp3
+
+# Ignore IDE settings
+.vscode/
+.idea/

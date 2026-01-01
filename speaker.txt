@@ -1,0 +1,6 @@
+# --- CONFIGURATION ---
+# Options:
+# "en-US-BrianNeural"       -> Classic "Jarvis-like" British/American mix
+# "en-US-ChristopherNeural" -> Deep, calm male voice
+# "en-IN-PrabhatNeural"     -> Indian English Male
+# "en-IN-NeerjaNeural"      -> Indian English Female

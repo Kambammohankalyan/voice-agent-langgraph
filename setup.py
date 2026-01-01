@@ -1,0 +1,2 @@
+from backend.rag_engine import ingest_knowledge_base
+ingest_knowledge_base()
