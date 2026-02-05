@@ -18,7 +18,8 @@ It features a modern, GPU-accelerated GUI built with **Flet** and uses **Edge TT
 ##  Key Features
 
 - **Sub-800ms Latency:** Powered by **Groq's LPU** (Linear Processing Unit) for near-instantaneous LLM inference.
-- **Real-Time Voice Pipeline:** \* **Input:** OpenAI Whisper (Turbo) for robust speech-to-text.
+- **Real-Time Voice Pipeline:**
+  - **Input:** OpenAI Whisper (Turbo) for robust speech-to-text.
   - **Output:** Microsoft Edge TTS for neural, human-like speech.
 - **Cyclical Reasoning (LangGraph):** The agent "thinks" before it speaks. It can route tasks, decide to search the web, or access internal memory based on context.
 - **Long-Term Memory:** Stores user facts and conversations in **Pinecone (Vector DB)**, allowing it to remember context across sessions.
