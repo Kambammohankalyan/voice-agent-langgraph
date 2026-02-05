@@ -15,7 +15,7 @@ It features a modern, GPU-accelerated GUI built with **Flet** and uses **Edge TT
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **⚡ Sub-800ms Latency:** Powered by **Groq's LPU** (Linear Processing Unit) for near-instantaneous LLM inference.
 - **🗣️ Real-Time Voice Pipeline:** \* **Input:** OpenAI Whisper (Turbo) for robust speech-to-text.
@@ -41,7 +41,7 @@ It features a modern, GPU-accelerated GUI built with **Flet** and uses **Edge TT
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -82,7 +82,7 @@ PINECONE_INDEX_NAME=voice-agent-memory
 TAVILY_API_KEY=tvly_your_tavily_key_here
 ```
 
-### 🖥️ Usage
+###  Usage
 
 Run the main application to launch the Desktop Interface:
 
@@ -104,7 +104,7 @@ Commands:
 
 ```
 
-### 📂 Project Structure
+###  Project Structure
 
 ```bash
 
