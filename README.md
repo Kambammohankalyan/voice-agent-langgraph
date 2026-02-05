@@ -1,4 +1,4 @@
-# 🎙️ Voice-Activated Multi-Agent System (JARVIS)
+#  Voice-Activated Multi-Agent System (JARVIS)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Cyclical%20AI-orange?style=for-the-badge)
@@ -7,7 +7,7 @@
 
 > **A real-time, hands-free AI assistant capable of cyclical reasoning, long-term memory, and "Chat with PDF" functionality.**
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project is an advanced AI agent designed to replicate the experience of J.A.R.V.I.S. It moves beyond simple "chatbot" scripts by integrating **LangGraph** for stateful multi-step reasoning and **RAG (Retrieval-Augmented Generation)** for handling custom documents.
 
