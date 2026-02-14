@@ -15,7 +15,7 @@ from groq import Groq
 # --- 1. SETUP ---
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-MIC_INDEX = 3 # Ensure this is your working Mic Index
+MIC_INDEX = 3 # Ensure this is your working Mic Index we need to check and change here
 
 if not GROQ_API_KEY:
     print("❌ ERROR: GROQ_API_KEY not found!")
